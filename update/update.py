@@ -38,7 +38,7 @@ def save(df, path, unique_columns, sort_columns):
     if os.path.exists(path):
         df = pd.concat([pd.read_csv(path), df])
         df.drop_duplicates(subset=unique_columns, keep='first', inplace=True)
-    df.sort_values(sort_columns).to_csv(path, index=False)
+    df.sort_values(sort_columns).to_csv(path, index=False, float_format="%.6f")
 
 
 timestamp = make_timestamp()
