@@ -126,6 +126,7 @@ date,departamento,id_entidad,nombre_entidad,id_sucursal,nombre_sucursal,latitud,
 2021-11-21,cochabamba,788,GRUPO INDUSTRIAL SAXSAY S.R.L.,1868,,-17.365360,-66.165754
 2021-11-21,cochabamba,789,JORDAN PASTOR CALVI CONDORI,1869,,-17.408745,-66.147464
 2021-11-21,cochabamba,789,JORDAN PASTOR CALVI CONDORI,1870,JHELAMS,-17.408490,-66.147740
+2021-12-27,cochabamba,792,EVITON,2400,Esteban Arce. Pasillo San Crispin,-17.402913,-66.155054
 2021-11-23,cochabamba,796,LUIS MARCELO MAQUE CHOQUE,1898,,-17.446737,-66.109975
 2021-11-23,cochabamba,798,TMG COMERCIALIZADORA S.R.L.,1910,Burbank,-17.373191,-66.154981
 2021-12-02,cochabamba,802,(STEGE - TORITO) SOCIEDAD COMERCIAL AGROPECUARIA TUSEQUIS LTDA.,2054,Stege - Torito Cochabamba,-17.395714,-66.192984
@@ -857,6 +858,7 @@ date,departamento,id_entidad,nombre_entidad,id_sucursal,nombre_sucursal,latitud,
 2021-12-07,santa cruz,872,SUPERMERCADO TOCALE S.R.L.,2103,,-18.965633,-57.798380
 2021-12-09,santa cruz,887,celestino cerdano mamani,2134,,-17.801465,-63.137622
 2021-12-11,santa cruz,887,celestino cerdano mamani,2185,Acronal 3,-17.789968,-63.152223
+2021-12-27,santa cruz,887,celestino cerdano mamani,2399,Maquio,-17.788418,-63.148915
 2021-12-14,santa cruz,898,Black Sheep,2197,,-17.792891,-63.205127
 2021-12-15,santa cruz,905,TITANIUM DENIN,2214,,-17.789912,-63.146515
 2021-12-15,santa cruz,906,rosemary choque de valenzuela,2215,,-17.791021,-63.154513
