@@ -891,6 +891,7 @@ date,departamento,id_entidad,nombre_entidad,id_sucursal,nombre_sucursal,latitud,
 2021-12-02,santa cruz,855,SABINO QUISBERT,2069,,-17.600359,-63.120737
 2021-12-03,santa cruz,864,Alvaro Choquenaira,2082,,-17.404197,-63.885906
 2021-12-05,santa cruz,869,Anai Dania Perez Cruz,2098,,-17.790111,-63.094346
+2022-01-07,santa cruz,869,Anai Dania Perez Cruz,2458,Ramafa,-17.805052,-63.185127
 2021-12-07,santa cruz,872,SUPERMERCADO TOCALE S.R.L.,2103,,-18.965633,-57.798380
 2021-12-09,santa cruz,887,celestino cerdano mamani,2134,,-17.801465,-63.137622
 2021-12-11,santa cruz,887,celestino cerdano mamani,2185,Acronal 3,-17.789968,-63.152223
@@ -981,6 +982,7 @@ date,departamento,id_entidad,nombre_entidad,id_sucursal,nombre_sucursal,latitud,
 2021-11-27,tarija,837,TARIJA AROMAS Y SABORES,2032,,-21.531774,-64.733271
 2021-12-08,tarija,874,ANDREA MARCELA CORO HESSE,2106,,-21.535346,-64.728653
 2021-12-14,tarija,899,CHAVEZ BORJA LILIANA,2200,FERTILIZER,-21.531455,-64.719480
+2022-01-07,tarija,899,CHAVEZ BORJA LILIANA,2199,,-21.530795,-64.719762
 2021-12-15,tarija,908,Lucia Martínez de Iñiguez,2218,,-21.533689,-64.709862
 2021-12-18,tarija,939,PIZZA HECHA EN CASA (DELIVERY Y CONSUMO EN LOCAL),2301,,-21.533274,-64.754451
 2021-12-18,tarija,943,ATAMISKY,2309,,-21.524807,-64.739221
